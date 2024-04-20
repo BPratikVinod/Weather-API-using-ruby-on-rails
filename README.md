@@ -5,20 +5,17 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 7.3.1
 
-* System dependencies
+* System dependencies: windows or linux
 
-* Configuration
+* Configuration: minimum 512 MB RAM
 
-* Database creation
+* Database creation: Not needed
 
-* Database initialization
-
-* How to run the test suite
+* How to run the test suite:
+*           1. After successful installation of ruby on rails.
+*           2. Open command prompt by selecting run as administrator option.
+*           3. Hit command "rails server" in it.
 
 * Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
